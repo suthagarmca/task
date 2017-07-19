@@ -1,7 +1,7 @@
 Following technologies to develop task application:
-PHP 5.6 (should enable pdo driver)
-Sqlite3
-Bootstrap (HTML Framework)
+PHP 5.6 (should enable pdo driver),
+Sqlite3,
+Bootstrap (HTML Framework).
 
 Work flow:
 User can able to create new task to fill form manatory fields.After user fill manatory fields it will call the jquery ajax function and will save into the database,added task will display into tasks list.
